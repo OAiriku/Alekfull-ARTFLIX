@@ -1,0 +1,45 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Super Smash Bros is a fighting series using popular nintendo characters from the Mario, Zelda, Metroid, Kirby, Pokemon, and other series.  Some of the entries have actually had other company's characters such as Sonic(Sega), Cloud(FFVII), and Steve(Minecraft).</text>
+		</text>
+
+		
+
+				<text name="info2" extra="true">
+			<text>Super Smash Bros</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>1999</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Masahiro Sakurai</text>
+		</text>
+
+		<text name="info5" extra="true">
+			<text>DEVELOPER:</text>
+		</text>
+
+				
+	</view>
+
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+</theme>

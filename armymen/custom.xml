@@ -1,0 +1,45 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Army Men is a strategic game series using plastic army men.  The use of toys in the game allowed for the series to be rated as less violent then had it depected humans fighting.</text>
+		</text>
+
+		
+
+				<text name="info2" extra="true">
+			<text>Army Men</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>1998</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>3DO</text>
+		</text>
+
+		<text name="info5" extra="true">
+			<text>DEVELOPER:</text>
+		</text>
+
+				
+	</view>
+
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+</theme>
